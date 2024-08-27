@@ -1,0 +1,16 @@
+{
+  "dup": {
+    "name": "Ler um livro node.js",
+    "is_done": false
+  },
+
+  "up": {
+    "name": "Pagar conta de Luz",
+    "is_done": false
+  },
+
+  "del": {
+    "name": "Estudar Javascript",
+    "is_done": false
+  }
+}
